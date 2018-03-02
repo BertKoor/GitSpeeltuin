@@ -1,3 +1,5 @@
-# README #
+# Git Speeltuin
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Deze git repository is neergezet als oefenplaats voor het OPS Engineers Ontwikkelprogramma.
+
+Alles kan en alles mag, maar gedraag je wel beschaafd!
