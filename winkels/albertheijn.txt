@@ -1,9 +1,10 @@
 Ik ga naar de Albert Heijn, en ik koop:
 
-<<<<<<< HEAD
+* Acht kilo appels
 * 1 meter verse worst > Deze worsten vallen een beetje tegen.
 * een kilo appels
-<<<<<<< HEAD
+* een kilo peren
+* vijf kilo kilo appels
 * 10 kilo tomaten
 * 100 kilo bananen
 =======
@@ -12,5 +13,13 @@ Tim is een sneaky bastard :P
 =======
 * Twee kilo appels
 * Een zak drop
->>>>>>> 38e89524900d90bcae10fba3bb626d54944b16da
->>>>>>> 143ba49f38f4885fefbae0595afd8380f46564c7
+* 1 meter verse worst > Deze worsten vallen een beetje tegen.
+* een kilo appels en peren tegelijk
+* Een zak drop
+* en een peer
+* 1 meter verse worst > Deze worsten vallen een beetje tegen.
+* een kilo peren
+* Een zak drop
+* Een meter verse worst
+* Een test
+* Een meter verse worst
