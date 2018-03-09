@@ -1,5 +1,15 @@
 Ik ga naar de Albert Heijn, en ik koop:
 
+<<<<<<< HEAD
 * 1 meter verse worst > Deze worsten vallen een beetje tegen.
 * een kilo appels
+<<<<<<< HEAD
 * 10 kilo tomaten
+=======
+
+Tim is een sneaky bastard :P
+=======
+* Twee kilo appels
+* Een zak drop
+>>>>>>> 38e89524900d90bcae10fba3bb626d54944b16da
+>>>>>>> 143ba49f38f4885fefbae0595afd8380f46564c7
