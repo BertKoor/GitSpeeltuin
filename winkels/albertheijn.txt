@@ -1,5 +1,6 @@
 Ik ga naar de Albert Heijn, en ik koop:
 
+<<<<<<< HEAD
 
 * 1 meter verse worst > Deze worsten vallen een beetje tegen.
 
@@ -15,11 +16,23 @@ Ik ga naar de Albert Heijn, en ik koop:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
-* Een test
 =======
+* 1 meter verse worst > Deze worsten vallen een beetje tegen.
+* een kilo appels en peren tegelijk
+* Twee kilo appels
+* Een zak drop
+* 1 meter verse worst > Deze worsten vallen een beetje tegen.
+* een kilo peren
+* Een zak drop
 * Een meter verse worst
+>>>>>>> 5f40ad11461fe7c3088c7fb05063c4a01f621708
+* Een test
+* Een meter verse worst
+<<<<<<< HEAD
 >>>>>>> d195900c06591c5f0a309b5648832aaf64c6bfc2
 =======
 >>>>>>> a53dc78f3202d269e97bd6b7de66b6dc8385c578
 >>>>>>> c41b31c312fe12b8a71262784b6553c818fdc4d5
 >>>>>>> 878321b923ec9714fc7dcb21568965268fbb2092
+=======
+>>>>>>> 5f40ad11461fe7c3088c7fb05063c4a01f621708
