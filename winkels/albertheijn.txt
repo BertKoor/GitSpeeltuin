@@ -10,4 +10,16 @@ Ik ga naar de Albert Heijn, en ik koop:
 =======
 * Twee kilo appels
 * Een zak drop
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+* Een test
+=======
+* Een meter verse worst
+>>>>>>> d195900c06591c5f0a309b5648832aaf64c6bfc2
+=======
+>>>>>>> a53dc78f3202d269e97bd6b7de66b6dc8385c578
+>>>>>>> c41b31c312fe12b8a71262784b6553c818fdc4d5
+>>>>>>> 878321b923ec9714fc7dcb21568965268fbb2092
