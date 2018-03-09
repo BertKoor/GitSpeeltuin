@@ -1,10 +1,19 @@
 Ik ga naar de Albert Heijn, en ik koop:
+<<<<<<< HEAD
+ helemaal niks!!!
+=======
 
 * Acht kilo appels
 * 1 meter verse worst > Deze worsten vallen een beetje tegen.
 * een kilo appels
 * een kilo peren
 * vijf kilo kilo appels
+* 10 kilo tomaten
+* 100 kilo bananen
+=======
+
+Tim is een sneaky bastard :P
+=======
 * Twee kilo appels
 * Een zak drop
 * 1 meter verse worst > Deze worsten vallen een beetje tegen.
@@ -25,10 +34,12 @@ Ik ga naar de Albert Heijn, en ik koop:
 
 
 
+kaas
+worst
+mosterd
 
 
-
-
+* Een zak met pipo meuk
 
 
 
@@ -37,3 +48,4 @@ Ik ga naar de Albert Heijn, en ik koop:
 
 
 * Pepernoten
+>>>>>>> 7dd634119d1535ffce51f4fda887111d120f3cd8
