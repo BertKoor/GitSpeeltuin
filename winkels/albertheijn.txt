@@ -1,3 +1,9 @@
 Ik ga naar de Albert Heijn, en ik koop:
 
+<<<<<<< HEAD
 * een kilo appels
+=======
+* Twee kilo appels
+* Een zak drop
+en een peer
+>>>>>>> 38e89524900d90bcae10fba3bb626d54944b16da
